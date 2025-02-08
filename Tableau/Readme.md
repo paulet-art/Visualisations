@@ -8,9 +8,9 @@ The goal of this repository is to showcase my skills in data visualization, help
 
 ## Dashboards
 
-- **Dashboard 1**: A description of the first dashboard and its purpose.
-- **Dashboard 2**: A description of the second dashboard and its purpose.
-- **Dashboard 3**: A description of the third dashboard and its purpose.
+- **Customer Overview**: Thie dashboard shows an analysis of customer raised tickets.
+  ![Alt text](path/to/your-image.png)
+
 
 ## How to Access the Dashboards
 

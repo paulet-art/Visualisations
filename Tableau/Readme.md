@@ -9,7 +9,7 @@ The goal of this repository is to showcase my skills in data visualization, help
 ## Dashboards
 
 - **Customer Overview**: Thie dashboard shows an analysis of customer raised tickets.
-  ![Alt text](path/to/your-image.png)
+  ![Alt text](https://github.com/paulet-art/Visualisations/blob/main/Tableau/Customer%20Support%20Ticket%20Overview/Customer%20Support%20Tickets.png)
 
 
 ## How to Access the Dashboards
